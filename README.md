@@ -29,6 +29,5 @@ I am a third-year student studying CS <img src="https://media.giphy.com/media/dC
 
 - :mailbox_closed: message me here! [![Linkedin Badge](https://img.shields.io/badge/-Leah-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/leah-kim-222392228/))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEAAHKIM)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEAAHKIM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
