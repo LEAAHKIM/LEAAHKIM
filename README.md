@@ -10,8 +10,8 @@
 </div>
 
 <h1 align="center">
-  hello!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  hello! it's nice to have you here
 </h1>
 
 
@@ -23,11 +23,11 @@ I am a third-year student studying CS <img src="https://media.giphy.com/media/dC
   
 - :art: i do <b>UI/UX design</b> to explore my passion in delivering <b>interactive, human-centered experiences.</b>
 
-- :seedling: i am currently learning <b>mobile app development</b> to bring my designs to life. (and to also  become a better designer)
+- :seedling: i am currently learning <b>mobile app development</b> to bring my designs to life. (and to also  become a better designer!)
 
 - :tea: in my free time, you will see me making matcha lattes <img src="https://media.giphy.com/media/Azg9Ek5mRI3pICSFcW/giphy.gif?cid=790b7611n26txl9xmottv904g3s5nhelui22ld5s7mrq1j6t&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="15px"/> or cafe hopping!
 
-- :mailbox_closed: how to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Leah-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/leah-kim-222392228/))
+- :mailbox_closed: message me here! [![Linkedin Badge](https://img.shields.io/badge/-Leah-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/leah-kim-222392228/))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEAAHKIM)](https://github.com/anuraghazra/github-readme-stats)
 
