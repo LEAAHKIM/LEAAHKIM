@@ -27,7 +27,5 @@ I am a third-year student studying CS <img src="https://media.giphy.com/media/dC
 
 - :tea: in my free time, you will see me making matcha lattes <img src="https://media.giphy.com/media/Azg9Ek5mRI3pICSFcW/giphy.gif?cid=790b7611n26txl9xmottv904g3s5nhelui22ld5s7mrq1j6t&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="15px"/> or cafe hopping!
 
-- :mailbox_closed: message me here! [![Linkedin Badge](https://img.shields.io/badge/-Leah-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/leah-kim-222392228/))
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEAAHKIM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
