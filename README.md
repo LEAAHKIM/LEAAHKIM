@@ -17,9 +17,9 @@
 
 ### :woman_technologist: About Me :
 
-I am a third-year student studying CS <img src="https://media.giphy.com/media/dCjgjlXrflbRFqNiRL/giphy.gif?cid=790b7611f2jk908lmayrilq5m5v20ca2k58uvpjycc4v8i3c&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> at barnard college, columbia university.
+I am a fourth-year student studying CS <img src="https://media.giphy.com/media/dCjgjlXrflbRFqNiRL/giphy.gif?cid=790b7611f2jk908lmayrilq5m5v20ca2k58uvpjycc4v8i3c&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> at barnard college, columbia university.
 
-- :bulb: i am interested in <b>immersive technology</b>. I explore this interest through building XR tools for researchers.
+- :bulb: i am interested in <b>immersive technology</b>. i explore this interest through building XR tools for researchers.
 - :video_game: i also like to creating games in jams and i love organizing hackathons. 
 - :tea: in my free time, you will see me making matcha lattes <img src="https://media.giphy.com/media/Azg9Ek5mRI3pICSFcW/giphy.gif?cid=790b7611n26txl9xmottv904g3s5nhelui22ld5s7mrq1j6t&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="15px"/> or cafe hopping!
 
