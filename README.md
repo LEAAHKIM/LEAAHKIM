@@ -29,5 +29,4 @@ In this way, I understand what it takes to deliver real value to customers. To b
 
 If you've read this far, I think you should check out my [portfolio](https://leahkiimdev.com/) ! 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEAAHKIM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
