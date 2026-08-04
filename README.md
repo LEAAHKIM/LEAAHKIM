@@ -16,11 +16,11 @@ I'm Leah, a fourth-year student studying CS at Barnard College, Columbia Univers
 My interests are in everything related to the visual and the experience. Things that require taste, craft, and good judgement. This preference makes me interested in immersive & emerging technologies, experience design, and frontend engineering. With philosophy as my additional area of study, I like to be a problem solver first. 
 
 
-How I realized this passion was through my love for being a barista during my undergrad years. Being a barista is not just about serving good coffee. It's also about dealing with pressure (the 8AM rush is very scary...), working as a team, staying organized, and sticking through. It's about showing up at 5AM when no one else is awake, and multi-tasking to continue conversations with regular customers (my fav part!). It's about consistently striving to improve and experimenting with the community :)) 
+How I realized this passion was through my love for being a barista during my undergrad years. Being a barista is not just about serving good coffee. It's also about dealing with pressure (the 8AM rush is very scary...), working as a team, staying organized, and sticking through it all. It's about showing up at 5AM when no one else is awake, and multi-tasking to continue conversations with regular customers (my fav part!). It's about consistently striving to improve and experimenting with the community :)) 
 
-In this way, I understand what it takes to deliver real value to customers. To be immersed with the target audience, to find real problems and then seal those gaps. 
+In this way, I understand what it takes to deliver real value to customers. To be immersed with the target audience, to find real problems, and then seal those gaps. 
 
 
-If you've read this far, I think you should check out my [portfolio](https://leahkiimdev.com/) ! 
+If you've read this far, I think you should check out my [portfolio website](https://leahkiimdev.com/) ! 
 
 
