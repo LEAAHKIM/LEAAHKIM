@@ -3,12 +3,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVxdGZqeGVyYnVodnRuc3kxM3ViMW1kYjZyazFha25la253dTRqNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MhYz6xvracpiw/giphy.gif"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/leah-kim-222392228/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 <h1 align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   hello! it's nice to have you here
